@@ -57,4 +57,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t1murgareev&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t1murgareev&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t1murgareevt&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t1murgareev&theme=github_dark
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t1murgareev&theme=github_dark)
