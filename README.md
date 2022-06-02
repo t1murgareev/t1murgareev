@@ -6,7 +6,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=t1murgareev&color=blue&style=flat-square")
 ![Stars](https://img.shields.io/github/stars/t1murgareev)
 ![Followers](https://img.shields.io/github/followers/t1murgareev)
-[![Wakatime](https://wakatime.com/badge/user/a392ab77-7255-4a39-922d-f116882f9f68.svg)](https://wakatime.com/@a392ab77-7255-4a39-922d-f116882f9f68)
 
 
 
