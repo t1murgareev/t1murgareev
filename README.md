@@ -1,6 +1,7 @@
-# Hi there 👋 My name is Timur
+## Hi there 👋 My name is Timur
 ## I live in  Saint-Petersburg, Russia
 
+- 🌱 I’m currently learning everything 
 
 <!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=t1murgareev&color=blue&style=flat-square")
@@ -12,37 +13,32 @@
 :books: I'm currently learning: JavaScript(Node.js, Express.js), TypeScript, PostgreSQL
 
 
-📧 Ask me about everything: https://t.me/he11Kitty
+📧 Ask me about everything: https://t.me/t1murgareev, https://www.linkedin.com/in/timur-gareev-2a6b431ab/
 
-# Skills
-### Languages
-
-<!-- TEMPLATE:
-<a href="HERE_GOES_URL" target="_blank"> <img src="HERE_GOES_LOGO" alt="HERE_GOES_ALT_TEXT" height="32"/> </a>
--->
+### Languages and Tools:
 
 
-<p>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-### Data Bases
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
 
-### Other tools and technologies
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+
+
+<br>
+<br>
+
+
 
 ### Practice
 
@@ -53,8 +49,6 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t1murgareev&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t1murgareev&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t1murgareev&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t1murgareevt&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t1murgareev&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1murgareev&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1murgareev&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
