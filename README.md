@@ -10,7 +10,7 @@
 
 
 
-:books: I'm currently learning: JavaScript(Node.js, Express.js), TypeScript, PostgreSQL
+:books: I'm currently learning: Java(Spring, SrpingBoot), MongoDB, PostgreSQL
 
 
 📧 Ask me about everything: https://t.me/t1murgareev, https://www.linkedin.com/in/timur-gareev-2a6b431ab/
