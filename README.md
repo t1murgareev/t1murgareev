@@ -10,7 +10,7 @@
 
 
 
-:books: I'm currently learning: Java(Spring, SrpingBoot), MongoDB, PostgreSQL
+:books: I'm currently learning: Java(Spring, SpringBoot), MongoDB, PostgreSQL
 
 
 📧 Ask me about everything: https://t.me/t1murgareev, https://www.linkedin.com/in/timur-gareev-2a6b431ab/
@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
