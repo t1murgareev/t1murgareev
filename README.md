@@ -13,7 +13,7 @@
 :books: I'm currently learning: Qa manual, Qa automation(Python), mySql, Postman
 
 
-📧 Ask me about everything: https://t.me/t1murgareev, https://www.linkedin.com/in/timur-gareev-2a6b431ab/
+📧 Ask me about everything: https://t.me/ANOX_timur, https://www.linkedin.com/in/timur-gareev-2a6b431ab/
 
 ### Languages and Tools:
 
