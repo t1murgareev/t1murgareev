@@ -10,7 +10,7 @@
 
 
 
-:books: I'm currently learning: Qa manual, Qa automation(Python), mySql, Postman
+:books: I'm : Qa manual, Qa automation(Python)
 
 
 📧 Ask me about everything: https://t.me/t1murgareev, https://www.linkedin.com/in/timur-gareev-2a6b431ab/
