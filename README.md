@@ -40,7 +40,7 @@
 
 ![codewars](https://www.codewars.com/users/Timur8888/badges/small)
 ### Leetcode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KingTimur&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode.com/ANOX-Timur/)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
