@@ -21,7 +21,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <br>
-:man_technologist: About Me : I am a Qa engineer/automation  from Russia. 
+:man_technologist: About Me : I am a Qa engineer/automation  from Russia.
+<br>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
