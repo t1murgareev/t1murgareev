@@ -62,6 +62,8 @@
 ### 💻 Leetcode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ANOX-Timur&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+### 🥷 Codewars:
+![Codewars](https://github.r2v.ch/codewars?user=Timur8888&top_languages=true)
     
 
 
