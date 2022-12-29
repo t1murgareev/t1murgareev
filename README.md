@@ -59,6 +59,7 @@
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1murgareev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 💻 Leetcode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ANOX-Timur&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
     
