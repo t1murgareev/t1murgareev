@@ -24,9 +24,11 @@
 :man_technologist: About Me : I am a Qa engineer/automation  from Russia.
 <br>
 <br>
-- :telescope: I’m working as Qa engineer/automation.
+
 
 - :seedling: Exploring Technical Content Writing.
+
+- :telescope: I’m working as Qa engineer/automation.
 
 - :zap: In my free time, I solve problems on leetcode/codewars and read tech articles.
 
