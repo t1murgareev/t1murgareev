@@ -10,11 +10,10 @@
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="Vkontakte Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=t1murgareev&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </div>
 
-</div>
+    
+
+
 
 
