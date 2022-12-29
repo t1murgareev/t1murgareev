@@ -10,8 +10,9 @@
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="Vkontakte Badge"/>
   </a>
   </div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=t1murgareev&style=flat-square&color=blue" alt=""/>
-  
+  </div>
 
     
 
