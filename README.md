@@ -10,9 +10,6 @@
   <a href="your-vkontakte-URL">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 
