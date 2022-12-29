@@ -4,10 +4,10 @@
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/timur-gareev-2a6b431ab/"/>
   </a>
   <a href="https://vk.com/t1mbeer">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="https://vk.com/t1mbeer"/>
   </a>
   </div>
 <div align="center">
@@ -32,7 +32,7 @@
 
 - :zap: In my free time, I solve problems on leetcode/codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Timur-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Timur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timur-gareev-2a6b431ab/)
 
 ---
 
