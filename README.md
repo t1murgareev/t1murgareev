@@ -9,8 +9,9 @@
   <a href="https://vk.com/t1mbeer">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=t1murgareev&style=flat-square&color=blue" alt=""/>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=t1murgareev&style=flat-square&color=blue" alt=""/>
+  
 
     
 
